@@ -5,7 +5,7 @@
       "title": "hello"
     }
   ],
-  "users": {
+  "users": [{
     "gname": "grenat.lucas",
     "name": "Grenat Lucas",
     "picture": "https://avatars1.githubusercontent.com/u/1660639?s=460&v=4",
@@ -16,5 +16,5 @@
     "name": "Grenat Lucas",
     "picture": "https://avatars1.githubusercontent.com/u/1660639?s=460&v=4",
     "blocked": true
-  }
+  }]
 }
