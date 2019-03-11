@@ -16,5 +16,17 @@
     "name": "Ghoster Cr",
     "picture": "https://avatars1.githubusercontent.com/u/1660639?s=460&v=4",
     "blocked": true
-  }]
+  }],
+  "grenat_lucas": {
+    "gname": "grenat_lucas",
+    "name": "Grenat Lucas",
+    "picture": "http://localhost:8080/dist/test.jpg",
+    "blocked": false
+  },
+  "ghoster": {
+    "gname": "ghoster",
+    "name": "Ghoster Cr",
+    "picture": "https://avatars1.githubusercontent.com/u/1660639?s=460&v=4",
+    "blocked": true
+  }
 }
