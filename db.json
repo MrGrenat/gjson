@@ -8,7 +8,7 @@
   "users": [{
     "gname": "grenat_lucas",
     "name": "Grenat Lucas",
-    "picture": "http://localhost:8080/dist/test.jpg?7bb05235c9dc5ce79f59b90240f02421",
+    "picture": "http://localhost:8080/dist/test.jpg",
     "blocked": false
   },
   {
